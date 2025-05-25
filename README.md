@@ -1,2 +1,2 @@
-# wheather-App
-Wheater App using React js
+# wheaterapp
+wheaterapp using react js

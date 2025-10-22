@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/wheather-App/static/css/main.bff113ca.css",
-    "main.js": "/wheather-App/static/js/main.02286160.js",
+    "main.css": "/wheather-App/static/css/main.b2d0b4aa.css",
+    "main.js": "/wheather-App/static/js/main.e56dbc06.js",
     "static/js/453.63261c35.chunk.js": "/wheather-App/static/js/453.63261c35.chunk.js",
     "static/media/drizzel.png": "/wheather-App/static/media/drizzel.bf1eab3350ca37ac75cc.png",
     "static/media/snow.png": "/wheather-App/static/media/snow.a1bab4977c6b746bbe1b.png",
@@ -11,13 +11,14 @@
     "static/media/search.png": "/wheather-App/static/media/search.48625617a1f89d1ae658.png",
     "static/media/heavy-rain.png": "/wheather-App/static/media/heavy-rain.a19c7f6db64dc7f90a56.png",
     "static/media/clouds.png": "/wheather-App/static/media/clouds.058d1121e95348721a5e.png",
+    "static/media/logo.svg": "/wheather-App/static/media/logo.180877536ebf0b1c44abc6d88d4e9bae.svg",
     "index.html": "/wheather-App/index.html",
-    "main.bff113ca.css.map": "/wheather-App/static/css/main.bff113ca.css.map",
-    "main.02286160.js.map": "/wheather-App/static/js/main.02286160.js.map",
+    "main.b2d0b4aa.css.map": "/wheather-App/static/css/main.b2d0b4aa.css.map",
+    "main.e56dbc06.js.map": "/wheather-App/static/js/main.e56dbc06.js.map",
     "453.63261c35.chunk.js.map": "/wheather-App/static/js/453.63261c35.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bff113ca.css",
-    "static/js/main.02286160.js"
+    "static/css/main.b2d0b4aa.css",
+    "static/js/main.e56dbc06.js"
   ]
 }
